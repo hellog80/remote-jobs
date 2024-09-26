@@ -352,7 +352,8 @@ Name | Website | Region
 [Honeycomb](/company-profiles/honeycomb.md) | https://honeycomb.tv/ | Worldwide
 [Hopper](/company-profiles/hopper.md) | https://www.hopper.com/ | USA, CA, UK, BG, PH, CO
 [Hotjar](/company-profiles/hotjar.md) | https://careers.hotjar.com/ | Worldwide
-[Hubspot](/company-profiles/hubspot.md) | https://www.hubspot.com/ | Worldwide
+[Hotjar](/company-profiles/hotjar.md) | https://careers.hotjar.com/ | Worldwide
+[How](/company-profiles/how.md) | https://www.how.net/ | Worldwide
 [Hudl](/company-profiles/hudl.md) | https://www.hudl.com/ | USA, UK
 [Hugo](/company-profiles/hugo.md) | https://hugo.events | Worldwide
 [Human Made](/company-profiles/human-made.md) | https://hmn.md | Worldwide
